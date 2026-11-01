@@ -7,9 +7,6 @@
 
 A command-line scientific calculator with number-base conversion, built in C using **Flex** (lexical analysis) and **Bison** (parsing). It was created for the **Compiler Design (CSE314)** course at **Daffodil International University** to demonstrate how a real compiler front-end works: tokenizing input, parsing it with a grammar, evaluating it through semantic actions, and recovering from errors.
 
-<div align="center">
-  <img src="Screenshot/Screenshot.png" alt="Calculator screenshot" width="600"/>
-</div>
 
 ---
 
